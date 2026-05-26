@@ -2,8 +2,6 @@
 
 A Python-based SEO audit tool for Joomla websites. Runs locally on your machine and crawls your site — including development servers not publicly accessible — to generate a detailed Excel report.
 
-Built for the [web-eau.net](https://web-eau.net) redesign project. Read the full story in the companion article: [Optimizing a Joomla site before launch](https://web-eau.net/en/blog/optimizing-joomla-site-before-launch).
-
 ---
 
 ## What it checks
